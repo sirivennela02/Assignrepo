@@ -1,2 +1,3 @@
-Git (Global Information Technology) it is hosting the code repositories and facilitating collaboration
-on the software project.
+Git (Global Information Technology) it is hosting the code repositories
+ and facilitating collaboration on the hole project and foldres on the software project.
+it has four main locations where your code lives in Git
